@@ -6,7 +6,7 @@ Tutorial de criação deste app: http://bit.ly/2jXXU7Q
 
 <p align="center">
     <img src="https://github.com/lucascalu/todo-list-aulas-flutter-master/blob/master/l1.jpg" width="300"/>
-    <img src="https://github.com/lucascalu/todo-list-aulas-flutter-master/blob/master/l1.jpg" width="300"/>
+    <img src="https://github.com/lucascalu/todo-list-aulas-flutter-master/blob/master/l2.jpg" width="300"/>
 </p>
 
 
